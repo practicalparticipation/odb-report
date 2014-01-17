@@ -911,8 +911,8 @@ Table 4 shows a clear regional variation between the readiness,
 
 ### United Kingdom (Overall rank \#1) 
 
-[<img src="{{ site.baseurl}}/assets/images/image061.png" align="right" width="300" title="Figure 6: Radar chart of scaled sub-component scores. Comparison of UK
-and Europe average."/>]({{ site.baseurl}}/assets/images/image061.png)
+[<img src="{{ JB.BASE_PATH}}/assets/images/image061.png" align="right" width="300" title="Figure 6: Radar chart of scaled sub-component scores. Comparison of UK
+and Europe average."/>]({{ JB.BASE_PATH}}/assets/images/image061.png)
 
  The UKs weakest area in the Barometer ranking is in securing social
  impact from open data, and although there are some experiments taking
@@ -947,7 +947,7 @@ and Europe average."/>]({{ site.baseurl}}/assets/images/image061.png)
  government departments. 
 
 ### United States (Overall rank \#2)
-[<img src="{{ site.baseurl}}/assets/images/image063.png" align="right" width="300" title="Figure 7: Radar chart of scaled sub-component scores. Comparison of USA and Americas region average."/>]({{ site.baseurl}}/assets/images/image063.png)
+[<img src="{{ JB.BASE_PATH}}/assets/images/image063.png" align="right" width="300" title="Figure 7: Radar chart of scaled sub-component scores. Comparison of USA and Americas region average."/>]({{ JB.BASE_PATH}}/assets/images/image063.png)
 
  The US government has placed a strong emphasis on bringing innovators
  into government, and increasing engagement between government and
@@ -972,7 +972,7 @@ and Europe average."/>]({{ site.baseurl}}/assets/images/image061.png)
 
 ### Sweden (Overall rank \#3)
 
-[<img src="{{ site.baseurl}}/assets/images/image065.png" align="right" width="300" title="Figure 8: Radar chart of scaled sub-component scores. Comparison of Sweden and Europe region average."/>]({{ site.baseurl}}/assets/images/image065.png)
+[<img src="{{ JB.BASE_PATH}}/assets/images/image065.png" align="right" width="300" title="Figure 8: Radar chart of scaled sub-component scores. Comparison of Sweden and Europe region average."/>]({{ JB.BASE_PATH}}/assets/images/image065.png)
 
  Sweden’s OGD portal does face some weaknesses when it comes to clear
  licencing, with a number of key datasets published without an open
@@ -992,7 +992,7 @@ and Europe average."/>]({{ site.baseurl}}/assets/images/image061.png)
 
 ### New Zealand (Overall rank \#4)
 
-[<img src="{{ site.baseurl}}/assets/images/image067.png" align="right" width="300" title="Figure 9: Radar chart of scaled sub-component scores. Comparison of New Zealand and Asia Pacific region average."/>]({{ site.baseurl}}/assets/images/image067.png)
+[<img src="{{ JB.BASE_PATH}}/assets/images/image067.png" align="right" width="300" title="Figure 9: Radar chart of scaled sub-component scores. Comparison of New Zealand and Asia Pacific region average."/>]({{ JB.BASE_PATH}}/assets/images/image067.png)
 
  Whilst there is a civil society community engaging with government
  around open data in New Zealand, the community is relatively small.
@@ -1013,7 +1013,7 @@ and Europe average."/>]({{ site.baseurl}}/assets/images/image061.png)
 
 ### Denmark and Norway (Overall joint rank \#5)
 
-[<img src="{{ site.baseurl}}/assets/images/image069.png" align="right" width="300" title="Figure 10: Radar chart of scaled sub-component scores. Comparison of Norway, Denmark and Europe region average."/>]({{ site.baseurl}}/assets/images/image069.png)
+[<img src="{{ JB.BASE_PATH}}/assets/images/image069.png" align="right" width="300" title="Figure 10: Radar chart of scaled sub-component scores. Comparison of Norway, Denmark and Europe region average."/>]({{ JB.BASE_PATH}}/assets/images/image069.png)
 
  Denmark and Norway both rank highly in the Open Data Barometer, with
  governments, civil society and businesses well placed to secure benefits
@@ -1692,7 +1692,7 @@ datasets. 
 
 ### Kenya (Overall rank \#22)
 
-[<img src="{{ site.baseurl}}/assets/images/image073.png" align="right" width="300" title="Figure 11: Radar chart of scaled sub-component scores. Comparison of Kenya and Africa region average."/>]({{ site.baseurl}}/assets/images/image073.png)
+[<img src="{{ JB.BASE_PATH}}/assets/images/image073.png" align="right" width="300" title="Figure 11: Radar chart of scaled sub-component scores. Comparison of Kenya and Africa region average."/>]({{ JB.BASE_PATH}}/assets/images/image073.png)
 
 Significant effort has gone into capacity building with the local
 technology community, and with journalists as key open data
@@ -1735,7 +1735,7 @@ transparency, public service improvement, innovation and efficiency. 
 
 ### Ghana (Overall rank \#47)
 
-[<img src="{{ site.baseurl}}/assets/images/image075.png" align="right" width="300" title="Figure 12: Radar chart of scaled sub-component scores. Comparison of Ghana and Africa region average."/>]({{ site.baseurl}}/assets/images/image075.png)
+[<img src="{{ JB.BASE_PATH}}/assets/images/image075.png" align="right" width="300" title="Figure 12: Radar chart of scaled sub-component scores. Comparison of Ghana and Africa region average."/>]({{ JB.BASE_PATH}}/assets/images/image075.png)
 
 Ghana began an OGD Initiative in early 2012, following a readiness assessment carried out￼by the World Wide Web Foundation in May
 ￼2011. The Initiative has launched a ‘beta’ open￼data portal for public comment, with around￼120 datasets from 12 departments, and is
@@ -1748,7 +1748,7 @@ Ghana began an OGD Initiative in early 2012, following a readiness assessment ca
 
 ## Regional analysis: Europe
 
-[<img src="{{ site.baseurl}}/assets/images/image077.png" align="right" width="300" title="Figure 13: Radar chart of scaled sub-component scores. Comparison of Ireland, Greece and Europe region average"/>]({{ site.baseurl}}/assets/images/image077.png)
+[<img src="{{ JB.BASE_PATH}}/assets/images/image077.png" align="right" width="300" title="Figure 13: Radar chart of scaled sub-component scores. Comparison of Ireland, Greece and Europe region average"/>]({{ JB.BASE_PATH}}/assets/images/image077.png)
 
 A number of European countries have already been discussed in the top five analyses. Looking at the overall picture for Europe,
 countries are generally strong on the civil society readiness component. This component includes issues such as the
