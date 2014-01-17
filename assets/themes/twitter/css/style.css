@@ -1,0 +1,124 @@
+/* Customisation - timdavies@webfoundation.org - January 2014 */
+
+.data-table th, .dataset-clusters th, .dataset-listings th {
+    background-color: #465471;
+    color:white;
+    border:1px solid white;
+    font-weight:normal;
+    font-size:10pt;
+}
+
+.data-table th, .data-table td {
+    width:17%;
+}
+
+.dataset-clusters th, .dataset-clusters td {
+    width:34%;
+    vertical-align:top;
+    font-size:10pt;
+}
+
+.dataset-listings td {
+    text-align:left;
+    font-size:10pt;
+}
+
+table.dataset-listings {
+    margin-bottom:1em;
+}
+
+.data-table td, .datasset-clusters td {
+    text-align:center;
+    font-size:10pt;
+}
+
+td.total {
+    font-weight:bold;
+}
+
+img.figure {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.databars td {
+    font-size:10pt;
+    padding:2px;
+    border:1px white solid;
+}
+
+tr.group {
+    background-color: #A0ABC0;
+    color:white;
+}
+
+img { 
+    padding:2px;
+}
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px; }
+
+.container-narrow > hr {
+  margin: 30px 0; }
+
+.navbar .nav {
+  float: right; }
+
+/* posts index */
+.post > h3.title {
+  position: relative;
+  padding-top: 10px; }
+
+.post > h3.title span.date {
+  position: absolute;
+  right: 0;
+  font-size: 0.9em; }
+
+.post > .more {
+  margin: 10px 0;
+  text-align: left; }
+
+/* post-full*/
+.post-full .date {
+  margin-bottom: 20px;
+  font-weight: bold; }
+
+/* tag_box */
+.tag_box {
+  list-style: none;
+  margin: 0;
+  overflow: hidden; }
+
+.tag_box li {
+  line-height: 28px; }
+
+.tag_box li i {
+  opacity: 0.9; }
+
+.tag_box.inline li {
+  float: left; }
+
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #eee;
+  color: #555;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px dashed #cccccc; }
+
+.tag_box a span {
+  vertical-align: super;
+  font-size: 0.8em; }
+
+.tag_box a:hover {
+  background-color: #e5e5e5; }
+
+.tag_box a.active {
+  background: #57A957;
+  border: 1px solid #4c964d;
+  color: #FFF; }
