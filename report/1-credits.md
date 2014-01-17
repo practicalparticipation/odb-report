@@ -2,6 +2,7 @@
 layout: page
 title: Cover and credits
 tagline: 
+group: navigation
 ---
 
 # Open Data Barometer: Global Report 2013

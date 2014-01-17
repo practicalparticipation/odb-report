@@ -2,6 +2,7 @@
 layout: page
 title: Executive Summary
 tagline: 
+group: navigation
 ---
 
 Open data is still in its infancy. Less than five years after the first
