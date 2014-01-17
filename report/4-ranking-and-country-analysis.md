@@ -1692,7 +1692,7 @@ datasets. 
 
 ### Kenya (Overall rank \#22)
 
-[<img src="{{ BASE_PATH}}/assets/images/image073.png" align="right" width="300" title="Figure 11: Radar chart of scaled sub-component scores. Comparison of Kenya and Africa region average."/>]({{ BASE_PATH}}/assets/images/image073.png)
+[<img src="{{site.JB.BASE_PATH}}/assets/images/image073.png" align="right" width="300" title="Figure 11: Radar chart of scaled sub-component scores. Comparison of Kenya and Africa region average."/>]({{site.JB.BASE_PATH}}/assets/images/image073.png)
 
 Significant effort has gone into capacity building with the local
 technology community, and with journalists as key open data
@@ -1735,7 +1735,7 @@ transparency, public service improvement, innovation and efficiency. 
 
 ### Ghana (Overall rank \#47)
 
-[<img src="{{ BASE_PATH}}/assets/images/image075.png" align="right" width="300" title="Figure 12: Radar chart of scaled sub-component scores. Comparison of Ghana and Africa region average."/>]({{ BASE_PATH}}/assets/images/image075.png)
+[<img src="{{BASE_PATH}}/assets/images/image075.png" align="right" width="300" title="Figure 12: Radar chart of scaled sub-component scores. Comparison of Ghana and Africa region average."/>]({{BASE_PATH}}/assets/images/image075.png)
 
 Ghana began an OGD Initiative in early 2012, following a readiness assessment carried out￼by the World Wide Web Foundation in May
 ￼2011. The Initiative has launched a ‘beta’ open￼data portal for public comment, with around￼120 datasets from 12 departments, and is
@@ -1748,7 +1748,7 @@ Ghana began an OGD Initiative in early 2012, following a readiness assessment ca
 
 ## Regional analysis: Europe
 
-[<img src="{{ BASE_PATH}}/assets/images/image077.png" align="right" width="300" title="Figure 13: Radar chart of scaled sub-component scores. Comparison of Ireland, Greece and Europe region average"/>]({{ BASE_PATH}}/assets/images/image077.png)
+[<img src="{{BASE_PATH}}/assets/images/image077.png" align="right" width="300" title="Figure 13: Radar chart of scaled sub-component scores. Comparison of Ireland, Greece and Europe region average"/>]({{ BASE_PATH}}/assets/images/image077.png)
 
 A number of European countries have already been discussed in the top five analyses. Looking at the overall picture for Europe,
 countries are generally strong on the civil society readiness component. This component includes issues such as the
