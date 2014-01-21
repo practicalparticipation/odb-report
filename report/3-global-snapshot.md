@@ -2,7 +2,10 @@
 layout: page
 title: Open Government Data - A Global Snapshot
 tagline: 
+group: navigation
 ---
+
+Path: {{ BASE_PATH }}
 
 # Introduction
 
@@ -149,7 +152,7 @@ below demonstrates both the global extent and depth of government level
 activity on open data, yet also reflects the unequal diffusion of OGD
 practices. 
 
-[<img src="/assets/images/image034.png" alt="Figure 1: Heatmap of scores for expert survey question:" title="Figure 1: Heatmap of scores for expert survey question: 'To what extent is there a well-resourced open government data initiative in this country?' Higher scores (darker colours on the map) indicate a well-resourced initiative, with strong political commitment. Countries in white were not included in the Open Data Barometer study." class="figure">](/assets/images/image033.png "Full size figure") 
+[<img src="{{ BASE_PATH }}/assets/images/image034.png" alt="Figure 1: Heatmap of scores for expert survey question:" title="Figure 1: Heatmap of scores for expert survey question: 'To what extent is there a well-resourced open government data initiative in this country?' Higher scores (darker colours on the map) indicate a well-resourced initiative, with strong political commitment. Countries in white were not included in the Open Data Barometer study." class="figure">]({{ BASE_PATH }}/assets/images/image033.png "Full size figure") 
 
 *Figure 1: Heatmap of scores for expert survey question: 'To what extent is there a well-resourced open government data initiative in this country?' Higher scores (darker colours on the map) indicate a well-resourced initiative, with strong political commitment. Countries in white were not included in the Open Data Barometer study.*
 
@@ -333,8 +336,8 @@ of actors in society (Hogge, 2010). 
 The radar charts in Figure 2 below present a regional breakdown of the
 ODB readiness component.
 
-[<img src="/assets/images/image036.png" title="Figure 2: Radar charts showing scaled component scores in the readiness
-sub-index by region." alt="Figure 2: Radar charts showing scaled component scores in the readiness sub-index by region." class="figure">](/assets/images/images035.png)
+[<img src="{{ BASE_PATH }}/assets/images/image036.png" title="Figure 2: Radar charts showing scaled component scores in the readiness
+sub-index by region." alt="Figure 2: Radar charts showing scaled component scores in the readiness sub-index by region." class="figure">]({{ BASE_PATH }}/assets/images/images035.png)
 
 *Figure 2: Radar charts showing scaled component scores in the readiness
 sub-index by region.*
@@ -367,7 +370,7 @@ open data readiness and implementation.
 
 # Implementation: dataset availability and accessibility
 
-[<img src="/assets/images/image037.png" alt="Five stars of open data" title="Five stars of open data">](http://fivestardata.info)
+[<img src="{{ BASE_PATH }}/assets/images/image037.png" alt="Five stars of open data" title="Five stars of open data">](http://fivestardata.info)
 
 In calling for ‘Raw Data Now’, Tim Berners-Lee set out a progressive
 model for open data publication in the ‘Five Stars of Linked Data’
@@ -397,7 +400,7 @@ The heat map below contrasts with the previous map of policy diffusion,
 showing the availability of open data currently lags behind the
 formation of open data policies in many countries.
 
-[<img src="/assets/images/image040.png" title="Figure 3: Heatmap of ODB Implementation score by country - based on openness of 14 key datasets." alt="Figure 3: Heatmap of ODB Implementation score by country - based on openness of 14 key datasets." class="figure">](/assets/images/image039.png)
+[<img src="{{ BASE_PATH }}/assets/images/image040.png" title="Figure 3: Heatmap of ODB Implementation score by country - based on openness of 14 key datasets." alt="Figure 3: Heatmap of ODB Implementation score by country - based on openness of 14 key datasets." class="figure">]({{ BASE_PATH }}/assets/images/image039.png)
 
 *Figure 3: Heatmap of ODB Implementation score by country - based on
 openness of 14 key datasets.*
@@ -509,7 +512,7 @@ funded through sales of data, or where historic conventions of charging
 for access to paper records have been continued as datasets have been
 digitised. 
 
-[<img src="/assets/images/image042.png" alt="Figure 4: Average openness scores by dataset category, using weighted dataset checklist survey responses." title="Figure 4: Average openness scores by dataset category, using weighted dataset checklist survey responses." class="figure">](/assets/image/image041.png)
+[<img src="{{ BASE_PATH }}/assets/images/image042.png" alt="Figure 4: Average openness scores by dataset category, using weighted dataset checklist survey responses." title="Figure 4: Average openness scores by dataset category, using weighted dataset checklist survey responses." class="figure">]({{ BASE_PATH }}/assets/image/image041.png)
 
 *Figure 4: Average openness scores by dataset category, using weighted
 dataset checklist survey responses.*
@@ -581,11 +584,11 @@ which meets the full open definition. 
 
 ### Key
 
-<img src="/assets/images/image044.png">
+<img src="{{ BASE_PATH }}/assets/images/image044.png">
 
 Circle size represents openness score. 
 
-<img src="/assets/images/image046.png">
+<img src="{{ BASE_PATH }}/assets/images/image046.png">
 
 Thick outline represents data a dataset meeting the open definition
 criteria
@@ -633,7 +636,7 @@ Excluding countries with a low score on variables for the presence of
 OGD initiatives marginally increases the mean, but does not alter the
 ordering of the categories. 
 
-[<img src="/assets/images/image054.png" alt="Figure 5: Evidence of open data impact by category" title="Figure 5: Average across all countries of response to expert survey question of the form 'To what extent has open data had a noticeable impact on...X">](/assets/images/image053.png)
+[<img src="{{ BASE_PATH }}/assets/images/image054.png" alt="Figure 5: Evidence of open data impact by category" title="Figure 5: Average across all countries of response to expert survey question of the form 'To what extent has open data had a noticeable impact on...X">]({{ BASE_PATH }}/assets/images/image053.png)
 
 *Figure 5: Average across all countries of response to expert survey
 question of the form 'To what extent has open data had a noticeable
