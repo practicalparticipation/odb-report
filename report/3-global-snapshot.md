@@ -5,6 +5,8 @@ tagline:
 group: navigation
 ---
 
+Path: {{ BASE_PATH }}
+
 # Introduction
 
 The idea of Open Government Data (OGD) has seen rapid diffusion across
