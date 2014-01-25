@@ -372,7 +372,7 @@ open data readiness and implementation.
 
 # Implementation: dataset availability and accessibility
 
-[<img src="{{ site.baseurl}}/assets/images/image037.png" alt="Five stars of open data" title="Five stars of open data">](http://fivestardata.info)
+[<img src="{{ site.baseurl}}/assets/images/image037.png" alt="Five stars of open data" title="Five stars of open data">](http://fivestardata.info?iframe=true)
 
 In calling for ‘Raw Data Now’, Tim Berners-Lee set out a progressive
 model for open data publication in the ‘Five Stars of Linked Data’
