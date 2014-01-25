@@ -1896,7 +1896,7 @@ impacts of open data in different countries as we would have liked. As
 already mentioned, the majority of evidence remains anecdotal, and hard
 to draw detailed cross-country comparisons with at present, particularly
 given the significant variations in the populations of the countries
-covered by the ODB study. 
+covered by the ODB study.
 
 We hope that, ultimately, the Open Data Barometer 2013 report, data and
 methods establish an initial baseline for tracking open data
