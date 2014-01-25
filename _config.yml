@@ -1,0 +1,4 @@
+name: Open Data Barometer - 2013 Global Report
+markdown: redcarpet
+pygments: true
+baseurl: /odb-report
