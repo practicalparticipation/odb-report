@@ -1,6 +1,8 @@
 Open Data Barometer Report
 ==========
 
+View at [http://practicalparticipation.github.io/odb-report/](http://practicalparticipation.github.io/odb-report/)
+
 In 2013 the [Open Data Barometer](http://www.opendatabarometer.org) report was written in Word, and converted to PDF. 
 
 This was, [as has been pointed out](https://twitter.com/philipashlock/status/418826517255163904), not ideal for a report about open data - but it was being reviewed by lots of different people - and this ended up as the lowest-common-denominator format for producing the report to a deadline.
