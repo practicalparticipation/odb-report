@@ -1,5 +1,6 @@
 ---
 layout: page
+order: 4
 title: Open Data Barometer - ranking and country analysis
 tagline: 
 short: Ranking and Analysis

@@ -1,5 +1,6 @@
 ---
 layout: page
+order: 3
 title: Open Government Data - A Global Snapshot
 tagline: 
 short: Global Snapshot

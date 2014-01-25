@@ -1,5 +1,6 @@
 ---
 layout: page
+order: 1
 title: Cover and credits
 tagline: 
 short: Cover
