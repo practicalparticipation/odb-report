@@ -603,7 +603,7 @@ is made up by the components of the Open Definition (OKF, 2006).
 
 ### Datasets
 
-[<img src="{{ site.baseurl}}/assets/images/datasetlistpreview.png" alt="Dataset listings" title="Dataset availability listings" class="figure"/>]({{ site.baseurl}}/assets/datasets/index.html?iframe=true&width=2000&height=1000)
+[<img src="{{ site.baseurl}}/assets/images/datasetlistpreview.png" alt="Dataset listings" title="Dataset availability listings" class="figure"/>]({{ site.baseurl}}/assets/datasets/index.html?iframe=true&width=1500&height=1000)
 
 
 # Early indications of impact
