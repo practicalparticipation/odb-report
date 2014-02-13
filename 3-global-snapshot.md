@@ -514,7 +514,7 @@ funded through sales of data, or where historic conventions of charging
 for access to paper records have been continued as datasets have been
 digitised. 
 
-[<img src="{{ site.baseurl}}/assets/images/image042.png" alt="Figure 4: Average openness scores by dataset category, using weighted dataset checklist survey responses." title="Figure 4: Average openness scores by dataset category, using weighted dataset checklist survey responses." class="figure">]({{site.baseurl}}/assets/image/image042.png)
+[<img src="{{ site.baseurl}}/assets/images/image042.png" alt="Figure 4: Average openness scores by dataset category, using weighted dataset checklist survey responses." title="Figure 4: Average openness scores by dataset category, using weighted dataset checklist survey responses." class="figure">]({{site.baseurl}}/assets/images/image041.png)
 
 *Figure 4: Average openness scores by dataset category, using weighted
 dataset checklist survey responses.*
