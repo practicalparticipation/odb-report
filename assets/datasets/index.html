@@ -6,19 +6,19 @@
 
 		<title> Open Data Ecosystems </title>
 
-		<!-- <script src="../../mbostock-d3-ed54503/d3.js" charset="utf-8"></script> -->	
+		<!-- <script src="mbostock-d3-ed54503/d3.js" charset="utf-8"></script> -->
 		<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
 		<!-- and the sources for the search box + autocomplete --> 
-		<link rel="stylesheet" href="jquery-ui-1.10.3.custom.css">
-		<script src="jquery-1.9.1.js"></script>
-		<script src="jquery-ui-1.10.3.custom.js"></script>
+		<link rel="stylesheet" href="jquery/jquery_for_search_autocomplete/jquery-ui-1.10.3.custom/css/ui-lightness/jquery-ui-1.10.3.custom.css">
+		<script src="jquery/jquery_for_search_autocomplete/jquery-ui-1.10.3.custom/js/jquery-1.9.1.js"></script>
+		<script src="jquery/jquery_for_search_autocomplete/jquery-ui-1.10.3.custom/js/jquery-ui-1.10.3.custom.js"></script>
 
 
 		<style type="text/css">
 
 			#headerDiv{
-				position: fixed;
+				position: absolute;
 				top: 0px;
 				left: 0px;
 				width: 1200px;
@@ -34,7 +34,7 @@
 			#bodyDiv{
 				position: absolute;
 				top: 235px;
-				left: 0px;
+				left: 8px;
 				width: 1200px;
 				height: 2000px; /* CHECK THIS PLEASE! */
 				/* border: 1px dashed rgb( 240, 240, 255) ; */
@@ -45,7 +45,7 @@
 				position: absolute;
 				top: 60px;
 				left: 255px;
-				width: 3250px;
+				width: 550px;
 				height: 23px;
 				/* border: 1px dashed red; */
 				background-color: none;
@@ -288,7 +288,7 @@
 
 			//  SVG setup! 
 			// for the header div, where the controls hopefully find themselves sometime
-			var basics_header_w = 2000, basics_header_h = 235, margin = 130;
+			var basics_header_w = 1150, basics_header_h = 235, margin = 130;
 			var basics_header = d3.selectAll("#headerDiv").append("svg")
 											.attr("width", basics_header_w )
 											.attr("height", basics_header_h )
@@ -300,7 +300,7 @@
 
 
 			// and for the search results / countries listing
-			var basics_body_w = 2000, basics_body_h = 5000, margin = 130;
+			var basics_body_w = 1150, basics_body_h = 5000, margin = 130;
 			var basics_body = d3.selectAll("#bodyDiv").append("svg")
 											.attr("width", basics_body_w )
 											.attr("height", basics_body_h );
